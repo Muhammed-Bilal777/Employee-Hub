@@ -346,12 +346,16 @@ npx vitest
 
 ---
 
+## 🚀 Performance Metrics
+
+<p align="center">
+  <img src="./assets/lighthouse-score.png" width="700" />
+</p>
+
+> **“Built with performance-first architecture, achieving near-perfect Lighthouse scores across all categories.”**
+
 ## 👨‍💻 Author
 
 Muhammed Bilal
 mdbilaal777@gmail.com
 Built with focus on **scalability, performance, and reusability**.
-
-
-
-Built with performance-first architecture, achieving near-perfect Lighthouse scores across all categories.
