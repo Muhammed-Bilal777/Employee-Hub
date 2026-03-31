@@ -351,3 +351,7 @@ npx vitest
 Muhammed Bilal
 mdbilaal777@gmail.com
 Built with focus on **scalability, performance, and reusability**.
+
+
+
+Built with performance-first architecture, achieving near-perfect Lighthouse scores across all categories.
